@@ -1,8 +1,8 @@
 body{
     font-family: 'Josefin Sans', sans-serif;
 }
-pL{
-    font-family: 'Luxurious Roman', cursive;
+#full-part{
+    margin: 40px;
 }
 h1{
     font-size: 50px;
@@ -13,8 +13,7 @@ h1{
     border-image-slice: 1;
     border-radius: 15px;
 }
-}
-#M-22{
+#year-1{
     color:tomato;
 }
 .all-part{
@@ -26,7 +25,7 @@ h1{
 }
 .button{
     text-decoration: none;
-    background-image: linear-gradient(rgb(255, 51, 0),rgb(255, 187, 0));
+    background-image: linear-gradient(rgb(231, 156, 16),rgb(243, 11, 69));
     padding:10px 30px;
     border-radius:5px;
     font-weight: 900px;
@@ -45,6 +44,12 @@ text-align: center;
     padding: 20px;
 
 
+}
+#year-0{
+    color: tomato;
+}
+.community{
+    font-size: 40px;
 }
 
 .flexible-container{
@@ -69,5 +74,28 @@ text-align: center;
 .secend-part{
     display: flex;
 }
-
+#bkash-all{
+    background-image: url(pictures/dream-bg.png);
+    background-repeat: no-repeat;
+   background-position:left;
+}
+#bkash{
+    text-align: center;
+    font-size: 40px;
+}
+#bkash-p{
+ margin-left: 66px;
+}
+#bkash-a{
+    color: tomato;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+#year-2{
+    color: tomato;
+}
    

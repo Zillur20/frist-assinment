@@ -1,8 +1,10 @@
 body{
     font-family: 'Josefin Sans', sans-serif;
+    
 }
 #full-part{
-    margin: 40px;
+    margin: 4
+    0px;
 }
 h1{
     font-size: 50px;
@@ -74,6 +76,11 @@ text-align: center;
 .secend-part{
     display: flex;
 }
+#ph{
+    background-image: url(pictures//exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 #bkash-all{
     background-image: url(pictures/dream-bg.png);
     background-repeat: no-repeat;
@@ -84,18 +91,28 @@ text-align: center;
     font-size: 40px;
 }
 #bkash-p{
- margin-left: 66px;
+ margin-left: 70px;
 }
 #bkash-a{
     color: tomato;
+}
+#bkash-div{
+    margin-right: 110px;
+    background-color:rgb(252, 162, 152);
+    border-radius: 25px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 40px;
 }
 .footer{
     text-align: center;
     background-color: black;
     color: white;
     padding: 15px;
+    margin:0;
 }
 #year-2{
     color: tomato;
+    margin: 0;
 }
    

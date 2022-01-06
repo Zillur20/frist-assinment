@@ -4,7 +4,9 @@ body{
 pL{
     font-family: 'Luxurious Roman', cursive;
 }
-
+h1{
+    font-size: 50px;
+}
 #M-22{
     color:tomato;
 }
@@ -27,3 +29,38 @@ pL{
 #HELLO{
 text-align: center;
 }
+.target{
+    border:blue;
+    background-color: coral;
+    border-radius: 15px;
+    width: 33.3%;
+    margin: 20px;
+    padding: 20px;
+
+
+}
+
+.flexible-container{
+    display: flex;
+    margin: 10px
+    padding: 10px;
+}
+#left{
+    margin-right: 40px;
+    width: 33.33%;
+    background-color: antiquewhite;
+}
+#middle{
+    width: 33.33%;
+    background-color: rgb(167, 197, 197);
+}
+#right{
+    margin-left: 40px;
+    width: 33.33%;
+    background-color: rgb(171, 243, 219);
+}
+.secend-part{
+    display: flex;
+}
+
+   

@@ -7,10 +7,17 @@ pL{
 h1{
     font-size: 50px;
 }
+#misson{
+    border-left: 5px solid;
+    border-image:linear-gradient(#05a0fa,rgb(13, 255, 142));
+    border-image-slice: 1;
+    border-radius: 15px;
+}
+}
 #M-22{
     color:tomato;
 }
-.first-part{
+.all-part{
     display: flex;
 }
 .half-width{
